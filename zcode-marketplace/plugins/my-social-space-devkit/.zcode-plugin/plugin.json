@@ -1,0 +1,19 @@
+{
+  "name": "my-social-space-devkit",
+  "version": "0.1.0",
+  "description": "Reusable ZCode skills, commands, and specialist agents for the My Social Space Flutter app.",
+  "author": {
+    "name": "My Social Space Project"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "flutter",
+    "dart",
+    "android",
+    "social",
+    "workspace"
+  ],
+  "commands": "commands",
+  "skills": "skills",
+  "agents": "agents"
+}

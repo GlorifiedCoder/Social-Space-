@@ -1,0 +1,23 @@
+{
+  "name": "my-social-space-market",
+  "description": "Local ZCode skills, commands, and specialist agents for building My Social Space.",
+  "pluginRoot": "plugins",
+  "plugins": [
+    {
+      "name": "my-social-space-devkit",
+      "source": "./my-social-space-devkit",
+      "description": "Flutter product engineering workflow for My Social Space.",
+      "version": "0.1.0",
+      "category": "development",
+      "tags": [
+        "flutter",
+        "dart",
+        "android",
+        "architecture",
+        "testing",
+        "social-workspace"
+      ],
+      "strict": true
+    }
+  ]
+}

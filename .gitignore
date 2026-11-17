@@ -1,0 +1,35 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+coverage/
+# Commit pubspec.lock for the Flutter application so builds are reproducible.
+# Do not commit local IDE state.
+.idea/
+.vscode/
+*.iml
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+key.properties
+android/key.properties
+google-services.json
+GoogleService-Info.plist
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
